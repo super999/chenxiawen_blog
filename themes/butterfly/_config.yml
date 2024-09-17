@@ -207,7 +207,7 @@ noticeOutdate:
 footer:
   owner:
     enable: true
-    since: 2020
+    since: 2024
     custom_text: <imgsrc="/img/icp.png"><a href="https://beian.miit.gov.cn/"  style="color:white" target="_blank"> 备案号：闽ICP备13003266号-8</a>
 
   copyright: true # Copyright of theme and framework
